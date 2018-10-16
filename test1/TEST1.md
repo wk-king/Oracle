@@ -14,7 +14,7 @@
 由此可知，结果表明，查询2更优
 
 #新查询语句：
-'''sql
+''' sql
 SEELCT d.department_name,count(e.job_id)as "部门总人数"
 avg(e.salary)as"平均工资"
 REOM hr.departments d, hr.empoyees e
