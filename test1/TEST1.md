@@ -2,10 +2,13 @@
 #查询1：
 
 ![image](https://github.com/wk-king/Oracle/blob/master/1.PNG)
+
 有优化建议
 
 #查询2：
+
 ![image](https://github.com/wk-king/Oracle/blob/master/2.PNG)
+
 无优化建议
 
 由此可知，结果表明，查询2更优
