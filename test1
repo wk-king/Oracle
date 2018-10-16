@@ -1,3 +1,0 @@
-SELECT DEPARTMENT_ID, MANAGER_ID
-FROM hr.departments
-![image](./blob/master/1.PNG?raw=true)
